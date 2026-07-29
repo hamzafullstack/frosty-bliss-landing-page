@@ -1,0 +1,32 @@
+/* بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ */
+body{
+    display: flex;
+    flex-direction: column;
+    background: #FFF8E8;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+    background-color: red;
+}
+.nav-items {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+.logo {
+    font-size: 24px;
+    font-weight: 900;
+
+}
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
