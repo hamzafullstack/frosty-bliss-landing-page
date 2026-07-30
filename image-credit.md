@@ -26,3 +26,6 @@ Photo by <a href="https://unsplash.com/@giulianacat?utm_source=unsplash&utm_medi
 
 Photo by ROMAN ODINTSOV: https://www.pexels.com/photo/mango-ice-cream-on-a-cup-5060450/ Refreshing mango ice cream served in cups with fresh mango slices on a teal surface
 
+Photo from pngtree.com for herosection.
+
+
