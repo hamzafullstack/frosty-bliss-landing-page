@@ -12,11 +12,13 @@ body{
     justify-content: space-between;
    align-items: center;
     background-color: red;
+    min-height: 70px;
 }
 .nav-items {
     display: flex;
     list-style: none;
     gap: 24px;
+    margin-right: 10px;
 }
 a {
     text-decoration: none;
@@ -26,24 +28,54 @@ a {
     font-size: 24px;
     font-weight: 900;
     color: #F9FAF8;
-
+    margin-left: 10px;
 }
 .hero-section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    min-height: 70vh;
+    background-color: bisque;
 }
 .left .hero-heading{
     font-size: 50px;
-    margin: 0%;
 }
 .left .hero-para {  
     font-size: 25px;
-    margin: 10;
+    line-height: 25px;
+    max-width: 500px;
 }
 .btn {
     font-size: 30px;
     font-weight: 700;
     color: #3882F6;
+    align-self: center
+}
+.right img{
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+}
+.right .left{
+    flex: 1;
+}
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 550px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+    margin-left: 50px;
+    max-width: 550px;
+}
+.left h1,
+.left p{
+    margin: 0;
 }
