@@ -139,3 +139,25 @@ a {
     text-align: right;
     margin: 20px auto 0;
 }
+.cta-container {
+    display: flex;
+    justify-content: center;
+    background-color: #f8c8dc;
+    padding: 50px 0;
+}
+.cta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.cta-btn {
+    font-size: 30px;
+    font-weight: 700;
+    color: #3882F6;
+    align-self: center
+}
