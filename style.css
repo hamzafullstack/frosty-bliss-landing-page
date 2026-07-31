@@ -79,6 +79,9 @@ a {
 .left p{
     margin: 0;
 }
+.card-container{
+    background: #FF8FAB;
+}
 .sign{ 
     text-align: center;
     margin-bottom: 50px;
@@ -107,4 +110,32 @@ a {
 .card p{
     line-height: 1.5;
     margin-top: 5px;
+}
+.quote-container {
+    background: rgb(135, 42, 42);
+}
+/* flexbox was making it hard so i use old school css */
+/* .quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+} */
+.quote .quote-para{
+    font-size: 34px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+    line-height: 1.5;
+    max-width: 700px;
+    text-align: left;
+    margin: 0 auto;
+}
+.quote .author{
+    /* align-self: center; */
+    max-width: 700px;
+    text-align: right;
+    margin: 20px auto 0;
 }
