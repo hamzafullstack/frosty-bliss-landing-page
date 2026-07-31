@@ -161,3 +161,7 @@ a {
     color: #3882F6;
     align-self: center
 }
+.footer {
+    text-align: center;
+    padding: 20px 0;
+}
