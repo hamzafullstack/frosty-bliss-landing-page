@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: space-between;
    align-items: center;
-    background-color: red;
+    background-color: #FFC8DD;
     min-height: 70px;
 }
 .nav-items {
@@ -22,20 +22,20 @@ body{
 }
 a {
     text-decoration: none;
-    color: #F9FAF8;
+    color: #1F2937;
 }
 .logo {
     font-size: 24px;
     font-weight: 900;
-    color: #F9FAF8;
+    color: #1F2937;
     margin-left: 10px;
 }
 .hero-section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-height: 70vh;
-    background-color: bisque;
+    min-height: 75vh;
+    background-color: #FFC8DD;
 }
 .left .hero-heading{
     font-size: 50px;
@@ -48,7 +48,7 @@ a {
 .btn {
     font-size: 30px;
     font-weight: 700;
-    color: #3882F6;
+    background-color: #FF6B9D;
     align-self: center
 }
 .right img{
@@ -80,7 +80,7 @@ a {
     margin: 0;
 }
 .card-container{
-    background: #FF8FAB;
+    background-color: #FFFFFF;
 }
 .sign{ 
     text-align: center;
@@ -112,7 +112,7 @@ a {
     margin-top: 5px;
 }
 .quote-container {
-    background: rgb(135, 42, 42);
+    background-color: #D8F3FF;
 }
 /* flexbox was making it hard so i use old school css */
 /* .quote {
@@ -142,7 +142,7 @@ a {
 .cta-container {
     display: flex;
     justify-content: center;
-    background-color: #f8c8dc;
+    background-color: #FFFFFF;
     padding: 50px 0;
 }
 .cta {
@@ -150,18 +150,21 @@ a {
     justify-content: space-between;
     align-items: center;
     max-width: 900px;
-    background-color: white;
+    background-color: #3882F6;
     padding: 40px;
     border-radius: 20px;
     margin: 0 auto;
+    color: white;
 }
 .cta-btn {
     font-size: 30px;
     font-weight: 700;
-    color: #3882F6;
+    background-color: #FF6B9D;
     align-self: center
 }
 .footer {
     text-align: center;
     padding: 20px 0;
+    background-color: #FFC8DD;
+    color: #1F2937;
 }
