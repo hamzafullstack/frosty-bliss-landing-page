@@ -38,9 +38,9 @@ Throughout this project, I practiced and improved my understanding of:
 
 ---
 
-## Preview
+## Preview & Live Demo
 
-> *Screenshot coming soon.*
+https://hamzafullstack.github.io/frosty-bliss-landing-page/
 
 ---
 
