@@ -42,6 +42,8 @@ Throughout this project, I practiced and improved my understanding of:
 
 https://hamzafullstack.github.io/frosty-bliss-landing-page/
 
+![Frosty Bliss Landing Page](./images/screenshot.png)
+
 ---
 
 ## Project Note
